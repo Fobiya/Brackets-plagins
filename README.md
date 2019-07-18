@@ -1,21 +1,20 @@
-echo "# Brackets-plagins" >> README.md
+##Brackets-plagins
 
-git init
+####List modules
 
-git add README.md
+* accessability [- link](https://github.com/konstantinkobs/brackets-colorHints)
+* colorHints  [- link](https://github.com/konstantinkobs/brackets-colorHints)
+* CSSFier [- link](https://caferati.me/labs/cssfier)
+* Emmet [- link](https://emmet.io/)
+* Js-Beautify Ochou <mfkddcwy@gmail.com>  [- link](https://emmet.io/)
+* jsbeautifier  <ryushi@gmail.com>  [- link](https://github.com/taichi/brackets-jsbeautifier) 
+* Markdown Preview [- link](https://github.com/gruehle/MarkdownPreview) 
+* Minifier http://wylst.com
+* Special Html Characters [- link](https://github.com/thaneuk/brackets-special-html-chars) 
 
-git commit -m "first commit"
+##### Template
 
-git remote add origin https://github.com/Fobiya/Brackets-plagins.git
-
-git push -u origin master
-
-…or push an existing repository from the command line
-
- git remote add origin https://github.com/Fobiya/Brackets-plagins.git
+* Mushin Dark [- link](https://github.com/Brackets-Themes/MushinDark) 
  
-git push -u origin master
 
-…or import code from another repository
 
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
