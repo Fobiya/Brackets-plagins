@@ -12,10 +12,8 @@
 * Minifier http://wylst.com
 * Special Html Characters [- link](https://github.com/thaneuk/brackets-special-html-chars) 
 * Brackets Git <Martin_Zagora> [- link](https://github.com/brackets-userland/brackets-git)
+* Brackets Snippets by zaggino [- link](https://github.com/brackets-userland/brackets-snippets)
 
 ### Template
 
-* Mushin Dark [- link](https://github.com/Brackets-Themes/MushinDark) 
- 
-
-
+* Mushin Dark [- link](https://github.com/Brackets-Themes/MushinDark)
