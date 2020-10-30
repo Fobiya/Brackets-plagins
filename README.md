@@ -2,6 +2,8 @@
 
 ### List modules
 
+\Brackets\extensions\user   -    plagins
+
 * accessability [- link](https://github.com/konstantinkobs/brackets-colorHints)
 * colorHints  [- link](https://github.com/konstantinkobs/brackets-colorHints)
 * CSSFier [- link](https://caferati.me/labs/cssfier)
