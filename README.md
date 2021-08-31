@@ -1,5 +1,12 @@
 ## Brackets-plagins
 
+### Brackets.Release 
+
+https://github.com/adobe/brackets/releases
+
+https://github.com/adobe/brackets/releases/tag/release-1.14.1
+
+
 ### List modules
 
 C:\Users\User\AppData\Roaming\Brackets\extensions\user   -    plagins
