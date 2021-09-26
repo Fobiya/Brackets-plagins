@@ -7,6 +7,9 @@ https://github.com/adobe/brackets/releases
 https://github.com/adobe/brackets/releases/tag/release-1.14.1
 
 
+C:\Program Files (x86)\Brackets\samples\ru\Getting Started  -  get start
+
+
 ### List modules
 
 C:\Users\User\AppData\Roaming\Brackets\extensions\user   -    plagins
