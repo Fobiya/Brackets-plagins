@@ -7,6 +7,10 @@ https://github.com/adobe/brackets/releases
 https://github.com/adobe/brackets/releases/tag/release-1.14.1
 
 
+
+
+https://github.com/adobe/brackets/wiki/Troubleshooting#livedev
+
 C:\Program Files (x86)\Brackets\samples\ru\Getting Started  -  get start
 
 
